@@ -1,7 +1,9 @@
 import random
 import numpy as np
 import matplotlib.pyplot as plt
+
 lz
+
 a = 1.716
 b = 2/3
 lz
