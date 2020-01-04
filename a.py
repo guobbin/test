@@ -5,7 +5,7 @@ bb
 cc
 a = 1.716
 b = 2/3
-
+lz
 
 def sigmoid(x):
     return 2*a/(1+np.exp(-b*x))-a
