@@ -2,6 +2,7 @@ import random
 import numpy as np
 import matplotlib.pyplot as plt
 bb
+cc
 a = 1.716
 b = 2/3
 
